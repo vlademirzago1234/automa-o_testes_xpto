@@ -1,1 +1,1 @@
-# automa-o_testes_xpto
+# automacao_testes_xpto
